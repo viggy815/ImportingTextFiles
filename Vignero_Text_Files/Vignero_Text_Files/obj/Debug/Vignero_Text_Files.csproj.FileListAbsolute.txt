@@ -1,0 +1,9 @@
+c:\users\viggy\documents\visual studio 2015\Projects\Vignero_Text_Files\Vignero_Text_Files\bin\Debug\Vignero_Text_Files.exe.config
+c:\users\viggy\documents\visual studio 2015\Projects\Vignero_Text_Files\Vignero_Text_Files\bin\Debug\Vignero_Text_Files.exe
+c:\users\viggy\documents\visual studio 2015\Projects\Vignero_Text_Files\Vignero_Text_Files\bin\Debug\Vignero_Text_Files.pdb
+c:\users\viggy\documents\visual studio 2015\Projects\Vignero_Text_Files\Vignero_Text_Files\obj\Debug\Vignero_Text_Files.StudentScores.resources
+c:\users\viggy\documents\visual studio 2015\Projects\Vignero_Text_Files\Vignero_Text_Files\obj\Debug\Vignero_Text_Files.Properties.Resources.resources
+c:\users\viggy\documents\visual studio 2015\Projects\Vignero_Text_Files\Vignero_Text_Files\obj\Debug\Vignero_Text_Files.csproj.GenerateResource.Cache
+c:\users\viggy\documents\visual studio 2015\Projects\Vignero_Text_Files\Vignero_Text_Files\obj\Debug\Vignero_Text_Files.exe
+c:\users\viggy\documents\visual studio 2015\Projects\Vignero_Text_Files\Vignero_Text_Files\obj\Debug\Vignero_Text_Files.pdb
+c:\users\viggy\documents\visual studio 2015\Projects\Vignero_Text_Files\Vignero_Text_Files\obj\Debug\Vignero_Text_Files.csprojResolveAssemblyReference.cache
